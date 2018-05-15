@@ -28,7 +28,7 @@ public class UserController {
 	private UserServiceImpl userServiceImpl;
 
 	/**
-	 * 获取�?有用户列�?
+	 * 获取�?有用户列表
 	 * 
 	 * @param request
 	 * @return
